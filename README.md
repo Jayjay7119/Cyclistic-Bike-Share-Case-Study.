@@ -10,7 +10,7 @@ Analyze Cyclistic's historical trip data to identify trends and differences in b
 
 ### Data Sources
 
-Cyclistic trip data: the primary data said used for this analysis is the "202004-divvy-tripdata.csv" file, containing information such as member ID and trip information.
+Cyclistic trip data: the primary data sets used for this analysis is the "202212-divvy-tripdata.csv - 202311-divvy-tripdata.csv" files, containing 12 months of information such as member ID and trip information.
 
 ### Tools
 
