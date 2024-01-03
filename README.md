@@ -10,5 +10,6 @@ Cyclistic trip data: the primary data said used for this analysis is the "202004
 
 ### Tools
 
-- Google Sheets - Data Cleaning 
+- Google Sheets - Data Cleaning
+- Big Query - Data Analysis
 - Tableu - Data Visualization
